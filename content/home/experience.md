@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-### March. 2019 ~ March. now
+### March. 2019 ~ now
 
 Frontend Web Developer, 厦门约约出行科技有限公司, Xiamen
 
